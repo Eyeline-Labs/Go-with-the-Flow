@@ -40,7 +40,7 @@ If you like this project, please give it a ★!
 
 Cut-and-drag motion control lets you take an image, and create a video by cutting out different parts of that image and dragging them around.
 
-For cut-and-drag motion control, there are two parts: an GUI to create a crude animation (no GPU needed), then a diffusion script to turn that crude animation into a pretty one (requires GPU).
+For cut-and-drag motion control, there are two parts: a GUI to create a crude animation (no GPU needed), then a diffusion script to turn that crude animation into a pretty one (requires GPU).
 
 **YouTube Tutorial**: [![YouTube Tutorial](https://img.shields.io/badge/YouTube-Tutorial-red?logo=youtube&logoColor=red)](https://www.youtube.com/watch?v=IO3pbQpT5F8)
 
