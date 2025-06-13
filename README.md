@@ -116,13 +116,12 @@ Adjust folder paths, prompts, and other hyperparameters as needed. The output wi
 - [x] Upload All CogVideoX Models
 - [x] Upload Cut-And-Drag Inference Code  
 - [x] Release to Arxiv
-- [ ] Google Colab for people without GPU's
 - [ ] Depth-Warping Inference Code
-- [ ] T2V Motion Transfer Code
-- [ ] I2V Motion Transfer Code (allows for first-frame editing)
-- [ ] ComfyUI Node
+- [x] T2V Motion Transfer Code
+- [x] I2V Motion Transfer Code (allows for first-frame editing)
+- [x] ComfyUI Node
 - [ ] Release 3D-to-Video Inference Code + Blender File
-- [ ] Upload AnimateDiff Model
+- [x] Upload AnimateDiff Model
 - [ ] Replicate Instance
 - [ ] Fine-Tuning Code
 
