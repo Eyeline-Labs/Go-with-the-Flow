@@ -11,6 +11,7 @@
 [![YouTube Tutorial](https://img.shields.io/badge/YouTube-Tutorial-red?logo=youtube&logoColor=red)](https://www.youtube.com/watch?v=IO3pbQpT5F8)
 [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Go--with--the--Flow-blue)](https://huggingface.co/Eyeline-Research/Go-with-the-Flow/tree/main)
 
+
 [Ryan Burgert](https://ryanndagreat.github.io)<sup>1,3</sup>, [Yuancheng Xu](https://yuancheng-xu.github.io)<sup>1,4</sup>, [Wenqi Xian](https://www.cs.cornell.edu/~wenqixian/)<sup>1</sup>, [Oliver Pilarski](https://www.linkedin.com/in/oliverpilarski/)<sup>1</sup>, [Pascal Clausen](https://www.linkedin.com/in/pascal-clausen-a179566a/?originalSubdomain=ch)<sup>1</sup>, [Mingming He](https://mingminghe.com/)<sup>1</sup>, [Li Ma](https://limacv.github.io/homepage/)<sup>1</sup>, 
 
 [Yitong Deng](https://yitongdeng.github.io)<sup>2,5</sup>, [Lingxiao Li](https://scholar.google.com/citations?user=rxQDLWcAAAAJ&hl=en)<sup>2</sup>, [Mohsen Mousavi](www.linkedin.com/in/mohsen-mousavi-0516a03)<sup>1</sup>, [Michael Ryoo](http://michaelryoo.com)<sup>3</sup>, [Paul Debevec](https://www.pauldebevec.com)<sup>1</sup>, [Ning Yu](https://ningyu1991.github.io)<sup>1†</sup>
@@ -43,6 +44,7 @@ If you like this project, please give it a ★!
 
 A huge thank you to all who contributed - videos to be added here soon!
 
+- [Zeptaframe](https://github.com/Pablerdo/zeptaframe)) by @Pablerdo
 - [ComfyUI implementation](https://github.com/kijai/ComfyUI-VideoNoiseWarp) by @kijai
 - [HuggingFace Space #1](https://huggingface.co/spaces/fffiloni/Go-With-The-Flow) by fffiloni
 - [HuggingFace Space #2](https://huggingface.co/spaces/OneOverZero/Go-With-The-Flow) by Ryan Burgert
