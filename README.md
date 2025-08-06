@@ -6,7 +6,7 @@
 
 <h1> Accepted to CVPR 2025 as Oral </h1>
 
-[![Project Page](https://img.shields.io/badge/Project-Page-green?logo=googlechrome&logoColor=green)](https://eyeline-research.github.io/Go-with-the-Flow/)
+[![Project Page](https://img.shields.io/badge/Project-Page-green?logo=googlechrome&logoColor=green)](https://eyeline-labs.github.io/Go-with-the-Flow/)
 [![Paper](https://img.shields.io/badge/Paper-arXiv-b31b1b?logo=arxiv&logoColor=red)](https://arxiv.org/abs/2501.08331)
 [![YouTube Tutorial](https://img.shields.io/badge/YouTube-Tutorial-red?logo=youtube&logoColor=red)](https://www.youtube.com/watch?v=IO3pbQpT5F8)
 [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Go--with--the--Flow-blue)](https://huggingface.co/Eyeline-Research/Go-with-the-Flow/tree/main)
